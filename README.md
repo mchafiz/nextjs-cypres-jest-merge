@@ -1,27 +1,14 @@
-# Next.js + Cypress
+# Next.js Coverage code with Jest & Cypress
 
-This example shows how to configure Cypress to work with Next.js.
 
-## Deploy your own
+to run and testing this project:
+1. npm install
+2. npm run coverage
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-cypress)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-cypress&project-name=with-cypress&repository-name=with-cypress)
+I completed this project from the following references:
+https://github.com/e-jigsaw/storybook-code-coverage.git
+https://nextjs.org/docs/pages/building-your-application/optimizing/testing
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-cypress with-cypress-app
-```
-
-```bash
-yarn create next-app --example with-cypress with-cypress-app
-```
-
-```bash
-pnpm create next-app --example with-cypress with-cypress-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
